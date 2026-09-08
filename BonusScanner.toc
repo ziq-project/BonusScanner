@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: BonusScanner
+## Title: BonusScanner |cff7fff7f - Project Legacy|r
 ## Notes: Scans your Equipment for cumulative item bonuses and sums them up.
 ## Notes-deDE: Durchsucht die Ausrüstung nach Gegenstandboni und zählt diese zusammen.
 ## Author: crowley@headshot.de | a Project Legacy fork by ziq
