@@ -2,7 +2,7 @@
 ## Title: BonusScanner
 ## Notes: Scans your Equipment for cumulative item bonuses and sums them up.
 ## Notes-deDE: Durchsucht die Ausrüstung nach Gegenstandboni und zählt diese zusammen.
-## Author: crowley@headshot.de
+## Author: crowley@headshot.de | a Project Legacy fork by ziq
 ## SavedVariables: 
 ## OptionalDeps: 
 ## Dependencies: 
